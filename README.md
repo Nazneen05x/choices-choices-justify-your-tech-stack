@@ -2,9 +2,9 @@
 
 # Justify your Tech-stack
 
-Verantwoord en presenteer je keuze voor een tech-stack.
+<img width="600" alt="282206348-79a0d82a-eec2-4c93-b4cc-cdd229da7b24" src="https://github.com/Nazneen05x/choices-choices-justify-your-tech-stack/assets/112861261/a8830540-e03b-4d2b-ac61-e48255c1bbc5">
 
-<!-- Haal bovenstaande tekst weg! -->
+
 
 
 <!-- Schrijf een mooie inleiding, beschrijf minstens de aanleiding - waarom doe je deze opdracht - en de tech-stack die je onderzoekt. Beschrijf daarna heel kort de stappen bij 2, 3, 4 en 5. -->
